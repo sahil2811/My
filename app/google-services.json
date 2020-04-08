@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1067302067142",
+    "firebase_url": "https://my-payroll-8480b.firebaseio.com",
+    "project_id": "my-payroll-8480b",
+    "storage_bucket": "my-payroll-8480b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067302067142:android:f0a86cf80b3c2a853f70c7",
+        "android_client_info": {
+          "package_name": "sahil.mittal.mypayroll"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067302067142-eng6iva0r8emn3kkd9rv836q4agqfq61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sahil.mittal.mypayroll",
+            "certificate_hash": "2a6e5656f0e41625ba40bcfd17c3cec06d9286ce"
+          }
+        },
+        {
+          "client_id": "1067302067142-ge2c730ju0lcpj799n557d218jetpi88.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnfYzXwLIV9tpbbO5RrzWnSUd1nL5cmoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067302067142-ge2c730ju0lcpj799n557d218jetpi88.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
